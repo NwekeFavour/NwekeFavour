@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: my twitter handle is @buchi1317
 - 😄 Pronouns: HE
 - ⚡ Fun fact: I'm really crazy about technology...looking forward to jump into AI development...Hopefully
-Thank you for viewing my page🤲🙏🙏
+-->Thank you for viewing my page🤲🙏🙏
