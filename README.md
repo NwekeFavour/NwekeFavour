@@ -3,6 +3,8 @@
 <!--
 **Oknown15/Oknown15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+.
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently Learning how to work with ReactJs 
@@ -11,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my username OKNOWN is the name of one of my project...Don't mind it.
 - 📫 How to reach me: my twitter handle is @buchi1317
 - 😄 Pronouns: HE
-- ⚡ Fun fact: I'm really crazy about technology...looking forward to jump into AI development...Hopefully.
--->Thank you for visiting my page.🙏🙏✊.
+- ⚡ Fun fact: I'm really crazy about technology...looking forward to jump into AI development...Hopefully
+Thank you for viewing my page🤲🙏🙏
