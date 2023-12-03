@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently Learning how to work with ReactJs 
-- 🌱 I’m currently working on my portfolio and my projects.
+- 🌱 I’m  working on my portfolio and many projects and ideas that come to my head day in, day out
 - 👯 I’m looking to collaborate with anyone who has experience in web development.
 - 💬 Ask me about my username OKNOWN is the name of one of my project...Don't mind it.
 - 📫 How to reach me: my twitter handle is @buchi1317
