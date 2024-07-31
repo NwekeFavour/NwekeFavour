@@ -1,4 +1,4 @@
-### Hi there 👋MY NAME IS NWEKE FAVOUR, I'm a Junior Frontend Developer With Four Years of Experience using JavaScript, css, Bootstrap and html.
+### Hi there 👋MY NAME IS NWEKE FAVOUR, I'm a Frontend Developer With Three Years of Experience using JavaScript, Nodejs, Reactjs, Vuejs, css, Bootstrap, Tailwindcss and html.
 
 <!--
 **Oknown15/Oknown15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
