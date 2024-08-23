@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->Thank you for viewing my page🤲🙏🙏
 -->want to reach me?👇👇
   <div id="badges">
-    <a href="(https://www.linkedin.com/in/favour-nweke-42209425a/)">
+    <a href="https://www.linkedin.com/in/favour-nweke-42209425a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://x.com/Nweke_19">
