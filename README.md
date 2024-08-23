@@ -9,7 +9,7 @@
 👨‍💻About Me:
 
 
-- 🔭 I’m currently Learning on how client and server side interacts
+- 🔭 I'm currently exploring the dynamics between client and server-side interactions.
 - 👀 I have been interested in programming since 2021. I had to write in many programming languages such as python, C,C++ e.t.c, But right now, I've settled on web development.
 - 🌱 I'm focused on building incredible things with other developers
 - 👯 I'm actively seeking internship positions to further grow my career and experence 
